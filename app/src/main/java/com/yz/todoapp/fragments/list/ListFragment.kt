@@ -165,6 +165,7 @@ class ListFragment : Fragment(), SearchView.OnQueryTextListener {
         builder.create().show()
     }
 
+
     override fun onDestroyView() {
         super.onDestroyView()
         binding = null
