@@ -14,6 +14,7 @@ Add todo list with priority
 - Kollin 
 - MVVM
 - Room 
+- Coroutines
 ## Screenshots
 
 
