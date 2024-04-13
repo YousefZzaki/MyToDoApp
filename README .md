@@ -11,14 +11,14 @@ Add todo list with priority
 - updating it from the list
 - deleting it from the list
 ## Technologies 
-- Kollin 
+- Kotlin 
 - MVVM
 - Room 
 - Coroutines
 ## Screenshots
 
 
-![WhatsApp Image 2023-03-05 at 1 23 05 PM](https://user-images.githubusercontent.com/122797180/222958740-a5310381-0bb7-41c9-9a72-19cc5ee85a9b.jpeg)
+(https://user-images.githubusercontent.com/122797180/222958740-a5310381-0bb7-41c9-9a72-19cc5ee85a9b.jpeg)
 
 
 ![WhatsApp Image 2023-03-05 at 1 23 05 PM (1)](https://user-images.githubusercontent.com/122797180/222958739-14da49e5-8e2e-4ab3-bb19-998796baeeda.jpeg)
