@@ -17,6 +17,7 @@ Add todo list with priority
 - Coroutines
 ## Screenshots
 <img src="https://i.imgur.com/ZWnhY9T.png" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/122797180/222958740-a5310381-0bb7-41c9-9a72-19cc5ee85a9b.jpeg" width="150" height="280">
 
 ![download](https://github.com/YousefZzaki/MyToDoApp/assets/122797180/60cf657c-e4fc-4232-9f0e-87b90f35e12a | width=100)
 
